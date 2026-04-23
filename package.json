@@ -80,6 +80,6 @@
   },
   "overrides": {
     "esbuild": "0.23.1",
-    "@xmldom/xmldom": ">=0.8.13"
+    "@xmldom/xmldom": ">=0.8.13 <1.0.0"
   }
 }
